@@ -2,7 +2,6 @@
 
 End-to-end analysis of a Zepto quick-commerce product catalogue. The project uses **PostgreSQL** for data cleaning and business-question analysis, and **Power BI** for an interactive inventory dashboard.
 
-![Dashboard preview](images/dashboard.png)
 <!-- TODO: add a screenshot of your Power BI page at images/dashboard.png -->
 
 ---
