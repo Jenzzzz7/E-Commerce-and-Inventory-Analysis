@@ -141,6 +141,6 @@ A single dark-themed page titled **Zepto E-Commerce and Inventory Analysis Dashb
 - Publish the dashboard to Power BI Service and link it here
 
 ## Author
-**[Your Name]** · [LinkedIn](https://www.linkedin.com/) · [Email](mailto:you@example.com)
+**[Your Name]** · [LinkedIn]( www.linkedin.com/in/jenoah-gonsalves-106113146) · [Email](jenoah2004@gmail.com)
 
-*Dataset source: [add the Kaggle / original source link here]*
+*Dataset source:(https://storage.googleapis.com/kaggle-data-sets/7432533/11832360/bundle/archive.zip?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20261015%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20261015T152432Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=8b4e2f4e7ffda0f38270e30801fe5249d1a3d1d028619ef542e2137fa2240279a9e9a03db38e5894d4feab9d3ed56ed877d48d7f075a88893096f3c8a8ba51fe30ba7c875812ecb1343542ffefd0ace1cc30d427eed3f0695fde339e28988e547b3d13285d410d6dc2d1138c08c7ec28b5592e0db4c5c10660f6e9ff6dc01021114dfe5a2190f59f213c2e9170425c98d4c3c896d47bb0b78498287077d307e02f045a1c7820e458d0c884ed37f36ade68d3dd4d6d814ebb2794b107be47e3118df1b8a071c9b45eeb704b46bf5e6064249343224ee032ecf532aba42abd04e15ceb4a1c7b3811aee2ab8c31615f14047901b033c13af9008a9b3521931a6cbd)
